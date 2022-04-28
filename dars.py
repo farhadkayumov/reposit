@@ -1,1 +1,1 @@
-print("Salom")
+z = int(input("NIma gap"))
